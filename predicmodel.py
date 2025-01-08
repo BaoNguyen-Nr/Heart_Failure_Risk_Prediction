@@ -7,8 +7,8 @@ from sklearn.pipeline import Pipeline
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report, accuracy_score, precision_score, recall_score, f1_score
 import streamlit as st
-import seaborn as sns
-import matplotlib.pyplot as plt
+# import seaborn as sns
+# import matplotlib.pyplot as plt
 import plotly.express as px
 # Import thêm các thư viện cần thiết
 # from pandas.api.types import is_numeric_dtype, is_bool_dtype, is_categorical_dtype
